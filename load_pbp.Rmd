@@ -1,0 +1,18 @@
+library(nflscrapR)season_to_csv <- function(years,playoffs){
+    for (season in years){
+        if (playoffs) {
+            print(paste('Extracting Playoff Games from',season,'season...'))
+            po <- extracting_gameids(season,TRUE)
+            count = 0
+            for (game in po){
+                print(paste('Game ', count, ' of ', length(po)))
+                write.csv(game_play_by_play(game),paste('po_pbp_',season,'.csv'))
+                count <- count + 1
+            }
+        } else {
+            print(paste('Extracting Season Games from',season,'season...'))
+            rs <- season_play_by_play(season,playoffs)
+            write.csv(rs,paste('rs_pbp_',season,'.csv'))
+        }
+    }
+}
