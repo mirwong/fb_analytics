@@ -1,0 +1,175 @@
+PFF Rank
+26
+Curtis Weaver
+Position
+ED
+Class
+RS Jr.
+PFF Rank
+27
+Patrick Queen
+Position
+LB
+Class
+Jr.
+PFF Rank
+28
+Julian Okwara
+Position
+ED
+Class
+Sr.
+PFF Rank
+29
+A.J. Terrell
+Position
+CB
+Class
+Jr.
+PFF Rank
+30
+Justin Herbert
+Position
+QB
+Class
+Sr.
+PFF Rank
+31
+Trevon Diggs
+Position
+CB
+Class
+Sr.
+PFF Rank
+32
+Justin Jefferson
+Position
+WR
+Class
+Jr.
+PFF Rank
+33
+Ashtyn Davis
+Position
+S
+Class
+RS Sr.
+PFF Rank
+34
+Jeff Gladney
+Position
+CB
+Class
+Sr.
+PFF Rank
+35
+Brandon Aiyuk
+Position
+WR
+Class
+Sr.
+PFF Rank
+36
+Denzel Mims
+Position
+WR
+Class
+Sr.
+PFF Rank
+37
+Netane Muti
+Position
+G
+Class
+Jr.
+PFF Rank
+38
+Antoine Winfield Jr.
+Position
+S
+Class
+RS So.
+PFF Rank
+39
+Willie Gay Jr.
+Position
+LB
+Class
+Jr.
+PFF Rank
+40
+Jonah Jackson
+Position
+G
+Class
+G
+PFF Rank
+41
+K.J. Hamler
+Position
+WR
+Class
+Jr.
+PFF Rank
+42
+Zack Baun
+Position
+ED
+Class
+Sr.
+PFF Rank
+43
+Cesar Ruiz
+Position
+C
+Class
+Jr.
+PFF Rank
+44
+Marlon Davidson
+Position
+ED
+Class
+Sr.
+PFF Rank
+45
+Mekhi Becton
+Position
+T
+Class
+Jr.
+PFF Rank
+46
+K'Lavon Chaisson
+Position
+ED
+Class
+So.
+PFF Rank
+47
+Justin Madubuike
+Position
+DI
+Class
+Jr.
+PFF Rank
+48
+Tyler Johnson
+Position
+WR
+Class
+Sr.
+PFF Rank
+49
+Bryce Hall
+Position
+CB
+Class
+Sr.
+PFF Rank
+50
+Cameron Dantzler
+Position
+CB
+Class
+Jr.

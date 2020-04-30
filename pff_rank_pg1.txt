@@ -1,0 +1,175 @@
+PFF Rank
+1
+Joe Burrow
+Position
+QB
+Class
+Sr.
+PFF Rank
+2
+Tua Tagovailoa
+Position
+QB
+Class
+Jr.
+PFF Rank
+3
+Chase Young
+Position
+ED
+Class
+Jr.
+PFF Rank
+4
+Jeffrey Okudah
+Position
+CB
+Class
+Jr.
+PFF Rank
+5
+Jerry Jeudy
+Position
+WR
+Class
+Jr.
+PFF Rank
+6
+CeeDee Lamb
+Position
+WR
+Class
+Jr.
+PFF Rank
+7
+Isaiah Simmons
+Position
+S
+Class
+Jr.
+PFF Rank
+8
+Andrew Thomas
+Position
+T
+Class
+Jr.
+PFF Rank
+9
+Tristan Wirfs
+Position
+T
+Class
+Jr.
+PFF Rank
+10
+Henry Ruggs III
+Position
+WR
+Class
+Jr.
+PFF Rank
+11
+Jedrick Wills Jr.
+Position
+T
+Class
+Jr.
+PFF Rank
+12
+Kristian Fulton
+Position
+CB
+Class
+Sr.
+PFF Rank
+13
+Javon Kinlaw
+Position
+DI
+Class
+Sr.
+PFF Rank
+14
+Josh Jones
+Position
+T
+Class
+Sr.
+PFF Rank
+15
+Grant Delpit
+Position
+S
+Class
+Jr.
+PFF Rank
+16
+Derrick Brown
+Position
+DI
+Class
+Sr.
+PFF Rank
+17
+C.J. Henderson
+Position
+CB
+Class
+Jr.
+PFF Rank
+18
+Laviska Shenault Jr.
+Position
+WR
+Class
+Jr.
+PFF Rank
+19
+Xavier McKinney
+Position
+S
+Class
+Jr.
+PFF Rank
+20
+A.J. Epenesa
+Position
+ED
+Class
+Jr.
+PFF Rank
+21
+Jalen Reagor
+Position
+WR
+Class
+Jr.
+PFF Rank
+22
+Michael Pittman Jr.
+Position
+WR
+Class
+Sr.
+PFF Rank
+23
+Jordan Elliott
+Position
+DI
+Class
+RS Jr.
+PFF Rank
+24
+Jaylon Johnson
+Position
+CB
+Class
+Jr.
+PFF Rank
+25
+Tee Higgins
+Position
+WR
+Class
+Jr.
